@@ -184,5 +184,12 @@
             android:layout_marginTop="32dp"
             android:text="Submit Request" />
 
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="wrap_content"
+            android:layout_height="208dp"
+            android:visibility="invisible"
+            app:srcCompat="@drawable/whatsapp_image_2026_02_18_at_2_51_39_pm" />
+
     </LinearLayout>
 </ScrollView>
